@@ -40,10 +40,10 @@ public class TestBase {
 
     public void login() throws InterruptedException {
         click(By.xpath("//a[@href='/login']"));
-        type(By.xpath("//*[@name='user']"), "dmitriy.konde@gmail.com");
+        type(By.xpath("//*[@name='user']"), "fagehe4438@godpeed.com");
         Thread.sleep(2000);
         click(By.xpath("//input[@id='login']"));
-        type(By.xpath("//*[@name='password']"), "Ddmiytiy8805");
+        type(By.xpath("//*[@name='password']"), "dima12345");
         click(By.xpath("//button[@id='login-submit']"));
     }
 
