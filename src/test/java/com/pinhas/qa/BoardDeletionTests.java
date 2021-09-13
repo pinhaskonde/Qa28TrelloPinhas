@@ -48,7 +48,8 @@ public class BoardDeletionTests extends TestBase{
     }
 
     public int getBoardsCount() {
-        return wd.findElements(By.xpath("//*[contains(@class, 'boards-page-board-section-header-icon-default-image')]/../../../..//li")).size()-1;
+        return wd.findElements(
+          By.xpath("//*[contains(@class, 'boards-page-board-section-header-icon-default-image')]/../../../..//li")).size()-1;
     }
 
     public void selectFirstBoard() {

@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87f547e9-9449-42fe-92e2-47ea80cf8ba1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/BoardCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/BoardCreationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/LoginTrelloTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/LoginTrelloTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Qa28TrelloPinhas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/BoardDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pinhas/qa/BoardDeletionTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,5 +112,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
