@@ -20,15 +20,10 @@ public class TestBase {
         init();
     }
 
-
-
     @AfterMethod
     public void tearDown() {
         stop();
     }
-
-
-
 
     //=============================================================================
 
@@ -65,7 +60,6 @@ public class TestBase {
         type(By.xpath("//*[@name='password']"), password);
         click(By.xpath("//button[@id='login-submit']"));
     }
-
 
     public boolean isElementPresent(By locator) {
         return wd.findElements(locator).size() > 0;
